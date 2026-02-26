@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SharedProject/SharedProject.shproj" />
+  <Project Path="SQLite3Jikken/SQLite3Jikken.csproj" />
+  <Project Path="SQLite3Jikken_Readonly/SQLite3Jikken_Readonly.csproj" />
+</Solution>
